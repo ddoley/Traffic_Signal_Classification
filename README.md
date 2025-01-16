@@ -2,6 +2,9 @@
 ## 🚀 Project Description
 This project is focused on classifying traffic signs using deep learning techniques, specifically a Convolutional Neural Network (CNN). The dataset used is the German Traffic Sign Recognition Benchmark (GTSRB), which contains images of various traffic signs categorized into different classes. The objective is to develop an efficient model that accurately predicts the type of traffic sign given an image.
 
+## 📂Dataset:
+https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign
+
 ## 🔑 Key Features
 
 Image classification using CNN on the German Traffic Sign Recognition Benchmark dataset.
