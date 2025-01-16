@@ -36,14 +36,14 @@ Scikit-learn for train-test split and data preprocessing
 
 ## 🔄 Workflow
 
-Data Collection: Images categorized into folders based on traffic sign classes. 
-Data Preprocessing: Images extracted, resized, converted to NumPy arrays, and stored with labels.
-Data Splitting: Data divided into training and testing sets; labels one-hot encoded.
-Model Building: A CNN model with Conv2D, MaxPooling2D, Dropout, Flatten, and Dense layers defined.
-Model Compilation & Training: Model compiled using categorical cross-entropy loss, Adam optimizer, and accuracy metric; trained while monitoring accuracy and loss.
-Model Evaluation & Testing: Predictions made on test data, accuracy computed.
-Model Saving & Deployment: Trained model saved and loaded for real-world traffic sign predictions.
-Final Predictions: The model accurately classifies traffic signs and maps them to human-readable names.
+Data Collection: Images categorized into folders based on traffic sign classes.  
+Data Preprocessing: Images extracted, resized, converted to NumPy arrays, and stored with labels. 
+Data Splitting: Data divided into training and testing sets; labels one-hot encoded. 
+Model Building: A CNN model with Conv2D, MaxPooling2D, Dropout, Flatten, and Dense layers defined. 
+Model Compilation & Training: Model compiled using categorical cross-entropy loss, Adam optimizer, and accuracy metric; trained while monitoring accuracy and loss. 
+Model Evaluation & Testing: Predictions made on test data, accuracy computed. 
+Model Saving & Deployment: Trained model saved and loaded for real-world traffic sign predictions. 
+Final Predictions: The model accurately classifies traffic signs and maps them to human-readable names. 
 
 ## 📊 Results & Performance
 
